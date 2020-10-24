@@ -64,3 +64,8 @@ strong:hover{
     background-color: navy;
     color: white;
 }
+.footer{
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;
+}
