@@ -71,5 +71,15 @@ strong:hover{
     padding: 10px;
     border-radius: 5px;
     background-color: whitesmoke;
-    box-shadow: 2px 2px silver;
+    box-shadow: 2px 2px 8px silver;
+}
+.header{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    box-shadow: 2px 2px 8px silver;
 }
